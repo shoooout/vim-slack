@@ -20,8 +20,11 @@ let g:vim_slack_usertoken = "{your_slack_user_token}"
 ```
 
 - `g:vim_slack_channel`
+
 The channel name you want to post.
 
 - `g:vim_slack_usertoken`
+
 The token for your slack account.
+
 Click [here](https://api.slack.com/authentication/rotation) to see how to get a token.
